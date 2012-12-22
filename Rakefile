@@ -8,3 +8,5 @@ require 'rake/testtask'
 require 'rdoc/task'
 
 require 'tasks/rails'
+
+load 'rails-app-versioning/railties/rails-app-versioning.rake'
