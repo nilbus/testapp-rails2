@@ -1,7 +1,7 @@
 PATH
   remote: ..
   specs:
-    rails-app-versioning (0.1.0)
+    rails_app_versioning (0.1.0)
       systemu
 
 GEM
@@ -33,4 +33,4 @@ PLATFORMS
 
 DEPENDENCIES
   rails (= 2.3.14)
-  rails-app-versioning!
+  rails_app_versioning!

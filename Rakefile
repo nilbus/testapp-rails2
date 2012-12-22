@@ -9,4 +9,4 @@ require 'rdoc/task'
 
 require 'tasks/rails'
 
-load 'rails-app-versioning/railties/rails-app-versioning.rake'
+load 'rails_app_versioning/railties/rails_app_versioning.rake'
